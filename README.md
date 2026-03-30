@@ -76,7 +76,7 @@ npm start
 
 ## 📸 Dashboard Preview
 
-![EMMR Dashboard](https://raw.githubusercontent.com/Aarshini09/EMMR/main/Dashboard page.png)
+![EMMR Dashboard](https://githubusercontent.com/Aarshini09/EMMR/blob/main/Dashboard%20page.png?raw=true)
 
 ---
 
