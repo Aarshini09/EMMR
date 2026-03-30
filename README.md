@@ -74,7 +74,9 @@ npm start
 
 ## 📸 Preview
 
-![Dashboard]("C:\Users\Antra priyadarshini\OneDrive\Desktop\Dashboard page.png")
+## 📸 Dashboard Preview
+
+![EMMR Dashboard](https://raw.githubusercontent.com/Aarshini09/EMMR/main/Dashboard page.png)
 
 ---
 
